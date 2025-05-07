@@ -1,0 +1,11 @@
+Netlist_File: helloworldfpga.net Netlist_ID: SHA256:1e173b6c0aa5d0f91855d157f02eea685e2a165b42981e3fd5eb71aea28c0d66
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+c_LUT2_O.t_frag	10	30	0	#0
+$iopadmap$helloworldfpga.c	30	32	0	#1
+b		24	32	0	#2
+a		22	32	0	#3
+$false		3	1	0	#4
+$true		2	1	0	#5
